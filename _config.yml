@@ -22,7 +22,7 @@ logo: "/images/yash-icon.PNG"
 favicon: "/images/yash-icon.PNG"
 
 # Pagination
-paginate: 5
+paginate: 3
 paginate_path: page:num
 
 # Collections
