@@ -15,7 +15,7 @@ plugins:
 # Site settings
 url: 'https://yashminimal.in'
 baseurl: ''
-title: 'Blog'
+title: 'yashminimal'
 description: '👋 Yash here, welcome to my home on internet.'
 permalink: pretty
 logo: "/images/yash-icon.PNG"
@@ -28,7 +28,7 @@ paginate_path: page:num
 # Collections
 collections:
   posts:
-    title: yashminimal
+    title: Blog
     output: true
     description: "👋 Welcome to my home on internet. Learn more about me [here](about)."
 
