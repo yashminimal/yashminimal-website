@@ -15,7 +15,7 @@ plugins:
 # Site settings
 url: 'https://yashminimal.in'
 baseurl: ''
-title: 'yashminimal'
+title: 'Blog'
 description: '👋 Yash here, welcome to my home on internet.'
 permalink: pretty
 logo: "/images/yash-icon.PNG"
