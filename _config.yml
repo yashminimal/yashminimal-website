@@ -13,12 +13,12 @@ plugins:
 - jekyll-paginate
 
 # Site settings
-url: 'https://mydomain.com'
+url: 'https://yashminimal.in'
 baseurl: ''
-title: 'My blog'
-description: 'This is my new blog'
+title: 'yashminimal'
+description: 'yashminimal'
 permalink: pretty
-logo: "https://www.gravatar.com/avatar/6c0377abcf4da91cdd35dea4554b2a4c?s=136"
+logo: "https://raw.githubusercontent.com/yashminimal/yashminimal.github.io/master/images/yash-icon.PNG"
 
 # Pagination
 paginate: 5
@@ -27,6 +27,6 @@ paginate_path: page:num
 # Collections
 collections:
   posts:
-    title: Blog
+    title: yashminimal
     output: true
-    description: "There isn't much going on here yet, but watch this space"
+    description: "👋 Yash here, welcome to my home on internet."

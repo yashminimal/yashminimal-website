@@ -20,4 +20,4 @@ The quest for wealth and power would never complete that quest for happiness."
 Fundamentally, I feel their is no meaning of life, and we fill in the meaning ourself. But this framework appeals in a lot of aspects.
 
 Here is something nice I found today:
-![Tiny Dragon Philosophy](/images/tiny-dragon.jpg)
+![Tiny Dragon Philosophy](./images/tiny-dragon.jpg)
