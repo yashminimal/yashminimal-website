@@ -4,11 +4,7 @@ title:  "The Science of Climate Change"
 category: Climate Tech
 ---
 
-## The Science of Climate Change 101
-
-I am planning to write a series of articles to delve deeper into the problem of climate change.
-
-**What is Climate Change?** Most people have an unclear understanding of Climate Change. In layman terms, it’s the long-term alteration of temperature and normal weather patterns.
+Most people have an unclear understanding of Climate Change. In layman terms, it’s the long-term alteration of temperature and normal weather patterns.
 >  The Paradox of Rational choice in Climate Change: It may seem individually irrational to take action in the face of climate change due to personal costs and small effect, and even though it is collectively rational to take action. 
 The importance of change at the individual level, however, is far greater than most people recognize, and such change when taken up by billions will make a decisive difference.
 
@@ -25,7 +21,7 @@ The importance of change at the individual level, however, is far greater than m
 - [Ice Sheets](https://climate.nasa.gov/vital-signs/ice-sheets/)
 - [Sea Level](https://climate.nasa.gov/vital-signs/sea-level/)
 
-![Source: [https://climate.nasa.gov/vital-signs/global-temperature/](https://climate.nasa.gov/vital-signs/global-temperature/)](/images/posts/climate-change-101/img1.png)
+![Source: [https://climate.nasa.gov/vital-signs/global-temperature/](https://climate.nasa.gov/vital-signs/global-temperature/)](/images/posts/02-climate-change-101/img1.png)
 
 **Why it’s an important issue? **To prevent the worst effects of climate change, we need to get to zero net greenhouse gas emissions in every sector of the economy within 50 years — and as [the IPCC recently found](http://www.ipcc.ch/report/sr15/), we need to be on a path to doing it in the next 10 years.
 
@@ -79,8 +75,8 @@ The normal life is run by algorithms of marketing but a normal person never thin
 
 [https://www.ipcc.ch/report/ar5/wg3](https://www.ipcc.ch/report/ar5/wg3/)/
 
-![](/images/posts/climate-change-101/img2.png)
+![](/images/posts/02-climate-change-101/img2.png)
 
-![](/images/posts/climate-change-101/img3.png)
+![](/images/posts/02-climate-change-101/img3.png)
 
 Resources: [Amasia Articles](https://static1.squarespace.com/static/5eb5a695a763f642708555ff/t/5ebac174b9b26c7630469654/1589297526622/Amasia-and-the-Climate-Crisis-Jan-2020-1.pdf) | [Gates Notes](https://www.gatesnotes.com/)

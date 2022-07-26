@@ -30,7 +30,7 @@ collections:
   posts:
     title: yashminimal
     output: true
-    description: "👋 Yash here, welcome to my home on internet. Learn more about me [here](about)"
+    description: "👋 Welcome to my home on internet. Learn more about me [here](about)."
 
 defaults:
  -
