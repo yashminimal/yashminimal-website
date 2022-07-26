@@ -16,9 +16,10 @@ plugins:
 url: 'https://yashminimal.in'
 baseurl: ''
 title: 'yashminimal'
-description: 'yashminimal'
+description: '👋 Yash here, welcome to my home on internet.'
 permalink: pretty
-logo: "https://raw.githubusercontent.com/yashminimal/yashminimal.github.io/master/images/yash-icon.PNG"
+logo: "/images/yash-icon.PNG"
+favicon: "/images/yash-icon.PNG"
 
 # Pagination
 paginate: 5
@@ -29,4 +30,18 @@ collections:
   posts:
     title: yashminimal
     output: true
-    description: "👋 Yash here, welcome to my home on internet."
+    description: "👋 Yash here, welcome to my home on internet. Learn more about me [here](about)"
+
+defaults:
+ -
+  scope:
+    path: ""
+    type: pages
+  values:
+    layout: page # Default layout
+ -
+  scope:
+    path: ""
+    type: posts
+  values:
+    layout: post # Default layout
