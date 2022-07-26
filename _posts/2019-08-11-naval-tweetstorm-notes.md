@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Notes on "How to Get Rich” — Naval Tweetstorm"
+title:  "Notes on 'How to Get Rich' — Naval Tweetstorm"
 category: Wealth
 ---
 
