@@ -17,3 +17,5 @@ PS - I had talked from the lens of a student Maya 👋 who's in her final year a
   <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_-J-OqWT4DvfTdgBsPU_9BIDEhIcc-vVNdek4Dse-kRjTUC9R6XAevvafLPOkdmpYgeWRECbdYQ0O/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!-- Google embed ends -->
 </div>
+
+![Linkedin post](/images/posts/06-climate-tech-young-graduates/img1.png)
