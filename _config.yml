@@ -22,7 +22,7 @@ logo: "/images/yash-icon.PNG"
 favicon: "/images/yash-icon.PNG"
 
 # Pagination
-paginate: 3
+paginate: 5
 paginate_path: page:num
 
 # Collections
@@ -30,7 +30,7 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "👋 Hi, I'm Yash. I'm a rational optimist working towards solving climate change. Learn more about me [here](about)."
+    description: "👋 Hi, I'm Yash. I'm a rational optimist working towards solving climate change. Learn more about me [here](about){:target="_blank"}."
 
 defaults:
  -
