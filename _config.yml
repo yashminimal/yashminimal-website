@@ -30,7 +30,7 @@ collections:
   posts:
     title: Blog
     output: true
-    description: "👋 Welcome to my home on internet. Learn more about me [here](about)."
+    description: "👋 Hi, I'm Yash. I'm a rational optimist working towards solving climate change. Learn more about me [here](about)."
 
 defaults:
  -
