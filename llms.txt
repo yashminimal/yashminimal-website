@@ -1,0 +1,78 @@
+# Yash Verma
+
+> I help B2B companies selling to the US find the one channel worth owning, and I build the agents that run it.
+
+Site: https://yashminimal.com/
+Email: yash@yashminimal.com
+LinkedIn: https://www.linkedin.com/in/yashminimal
+GitHub: https://github.com/yashminimal
+Updated: 16 Sep 2026
+
+## Notes
+
+### A point of view is a filter
+
+Two AI companies launched this year on opposite readings of the same fact. In June, Hang Ten raised $32M betting AI eats IT services. Six weeks later June came out of stealth with $20M, arguing that deploying AI is now the bottleneck, which creates a new kind of services work. Both will sell, because a point of view finds the buyers who already half-believe it.
+
+We learned the same thing selling air purifiers to offices. Specs and pricing got ignored. What got replies was an email showing a CXO the air quality reading at their own office that morning.
+
+Try this: Write the one sentence your best-fit buyer already half-believes, and put it above everything else on your homepage.
+
+Full piece: https://www.linkedin.com/posts/yashminimal_two-ai-startups-launched-this-year-on-opposite-activity-7495718808934916096-Nvey
+
+### Make the technical proof the reason they buy
+
+Consultancies were selling enterprises the same carbon outcome we were, as a service. So we built a measurement platform that used satellite data and field sensors to verify results, and put it at the front of every pitch.
+
+Try this: List the proof points a larger competitor cannot copy in six months. Lead with the first one.
+
+### The number that decides a category is rarely in the market report
+
+We almost built an alkaline water business and killed it in two months. The reason was one number no report carried: 30 to 40% of every Kangen machine's price goes to distributor commissions, roughly $1,800 to whoever closes a household. Our bottle was going to sell for $100 to $120. You cannot pay someone $1,800 to close a sale that small, so the channel that built the category was closed to us.
+
+Try this: Before sizing a category, find out who gets paid to close each sale, and how much.
+
+Full piece: https://www.linkedin.com/posts/yashminimal_we-almost-built-an-alkaline-water-business-activity-7495508564040482816-Ikn4
+
+### Flow revenue is capped by trigger volume, so twelve flows won't save you
+
+The standard advice says get twelve email flows live. In our account, four flows produced 88% of flow revenue. The bigger leak was two flows fighting over the same trigger, where the older one wins by default: the flow earning $3.08 per recipient got 177 sends while the one earning $0.66 got 16,810.
+
+Try this: Export your flow report, sort by revenue per recipient, and check whether any two flows share a trigger. In B2B the same cap applies to trial and onboarding sequences.
+
+Full piece: https://www.linkedin.com/posts/yashminimal_article-2-is-up-email-marketing-ive-skipped-activity-7496074433254551552-YHne
+
+### An agent is only as good as the context you give it
+
+I answered 40+ questions about myself before I let an AI write a single line for me. You would give a new hire six weeks to learn how you sell. An agent gets only what you put into words, so the ceiling on its output is how carefully you have examined your own work. My whole operation now runs on a folder of plain markdown files that any AI can read.
+
+Try this: Before your next agent project, write down the ten questions a new hire would ask you in week one, and answer them.
+
+Full piece: https://www.linkedin.com/posts/yashminimal_i-answered-40-questions-about-myself-before-activity-7502626894740365312-w9xD
+
+## Results
+
+- Google Ads: $125K spend, $280K conversion value (2.2x). Source: Google Ads account, Mar 2025 to Sep 2026.
+- Carbon credits from projects in India sold to buyers in Europe and the US. Source: Equilibrium carbon markets.
+- $400K from a US venture fund, in a pre-seed round that also included angels (press reported the round at $450K).
+- Four email flows produced 88% of flow revenue. Source: Yash Verma, "Three email lessons that go against the standard advice", Aug 2026.
+- Selected for Amazon Propel, Season 5, January 2026.
+
+## Agents
+
+- Company teardown: name a company before a meeting; get a nine-section brief with sources checked by country. Running.
+- Review miner: reads a category's customer reviews and returns the complaint themes and unmet needs, ranked. Running.
+- Backlog router: reads an idea doc every weekday morning and files each line as a task in the right project. Running.
+- Channel whitespace finder: maps where a B2B buyer finds products and which ground nobody owns yet. In progress, Oct 2026.
+
+## Press and rooms
+
+- California Business Journal: From climate tech to hydration tech: inside Yash Verma's vision for Dr. Water https://calbizjournal.com/from-climate-tech-to-hydration-tech-inside-yash-vermas-vision-for-dr-water/
+- Benzinga: Dr. Water secures pre-seed to disrupt the hydration market https://www.benzinga.com/partner/general/25/11/48833577/dr-water-secures-450k-pre-seed-to-disrupt-the-hydration-market
+- Haute Living: The future of functional beverages is here https://hauteliving.com/2025/12/the-future-of-functional-beverages-is-here-it-starts-with-hydrogen/781400/
+- LA Weekly: Fueling longevity and focus: inside Dr. Water https://www.laweekly.com/fueling-longevity-and-focus-inside-the-high-performance-world-of-dr-water/
+- LetMeBreathe: A portrait on the air India breathes https://lmb.pluc.tv/article/a-portrait-on-the-air-india-breathes
+- Showcased carbon projects at COP28, Dubai, Dec 2023
+- Guest speaker, International Carbon Conference, Oct 2023
+- Judge, TEDx SRCC flagship, 2025
+- Seller testimonial, Amazon Seller Export Connect, 2025
